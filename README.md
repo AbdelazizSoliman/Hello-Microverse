@@ -67,7 +67,7 @@
 
 - **Use of Linters**
 - **Correct GitHub flow**
-- **Documented Work**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +80,7 @@
 
 - GitHub: [@abdelazizsoliman](https://github.com/abdelazizsoliman)
 - Twitter: [@Abdelaz21958317](https://twitter.com/Abdelaz21958317)
-- LinkedIn: [Abdelaziz Soliman](www.linkedin.com/in/abdelaziz-soliman-16989b89)
+- LinkedIn: [Abdelaziz Soliman](https://www.linkedin.com/in/abdelaziz-soliman-16989b89/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
