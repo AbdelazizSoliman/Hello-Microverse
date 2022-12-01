@@ -4,10 +4,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+ <h3><b>Hello Microverse Project README</b></h3>
 
 </div>
 
@@ -27,7 +24,7 @@
 # 📖 Hello Microverse <a name="about-project"></a>
 
 
-**Hello Microverse** is proect will teach you Create branches with different base branches, Understand the concept of version control, and Follow GitHub flow. .
+**Hello Microverse** this proect will teach you how to Create branches with different base branches, Understand the concept of version control, and Follow GitHub flow. .
 
 ## 🛠 Built With <a name="built-with"></a>
 
