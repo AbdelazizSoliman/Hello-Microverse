@@ -24,7 +24,7 @@
 # 📖 Hello Microverse <a name="about-project"></a>
 
 
-**Hello Microverse** this proect will teach you how to Create branches with different base branches, Understand the concept of version control, and Follow GitHub flow. .
+**Hello Microverse** this project will teach you how to Create branches with different base branches, Understand the concept of version control, and Follow GitHub flow. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
