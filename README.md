@@ -4,7 +4,7 @@
 
 <div align="center">
 
- <h3><b>Hello Microverse Project README</b></h3>
+ <h3><b>Responsive Portfolio Project README</b></h3>
 
 </div>
 
@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+    - [languge](#Languge)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [👥 Authors](#authors)
@@ -21,10 +21,10 @@
 
 
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Responsive Portfolio <a name="about-project"></a>
 
 
-**Hello Microverse** this project will teach you how to Create branches with different base branches, Understand the concept of version control, and Follow GitHub flow. 
+**Responsive Portfolio* this project will teach you how to use flexbox and grid and how to build a responsive design using Jquery.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,7 +55,9 @@
 ### Languge <a name="Languge"></a>
 
 - **HTML**
-- **CSS**
+- **CSS3**
+- **Jquery**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,6 +66,7 @@
 
 - **Use of Linters**
 - **Correct GitHub flow**
+- **Use of CSS flexbox and grid**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
